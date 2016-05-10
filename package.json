@@ -1,0 +1,21 @@
+{
+  "name": "thorin-store-elastic",
+  "author": "Stiudeo",
+  "version": "1.0.1",
+  "dependencies": {
+    "camelcase": "^2.1.1",
+    "decamelize": "^1.2.0",
+    "elasticsearch": "^11.0.1"
+  },
+  "description": "Thorin.js ElasticSearch store",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stiudeo/Thorin-store-elastic"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Stiudeo/Thorin-store-elastic/issues"
+  }
+}
