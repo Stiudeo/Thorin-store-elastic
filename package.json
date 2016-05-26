@@ -1,11 +1,12 @@
 {
   "name": "thorin-store-elastic",
   "author": "Stiudeo",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "dependencies": {
     "camelcase": "^2.1.1",
     "decamelize": "^1.2.0",
-    "elasticsearch": "^11.0.1"
+    "elasticsearch": "^11.0.1",
+    "url-parse": "^1.1.1"
   },
   "description": "Thorin.js ElasticSearch store",
   "main": "index.js",

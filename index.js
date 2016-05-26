@@ -9,7 +9,6 @@ module.exports = function init(thorin, opt) {
   // Attach the SQL error parser to thorin.
   thorin.addErrorParser(require('./lib/errorParser'));
   const ThorinElasticStore = initStore(thorin, opt);
-
   return ThorinElasticStore;
 };
 module.exports.publicName = 'elastic';
