@@ -1,7 +1,7 @@
 {
   "name": "thorin-store-elastic",
   "author": "Stiudeo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "dependencies": {
     "camelcase": "^2.1.1",
     "decamelize": "^1.2.0",
@@ -13,10 +13,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stiudeo/Thorin-store-elastic"
+    "url": "https://github.com/Thorinjs/Thorin-store-elastic"
   },
   "homepage": "http://thorinjs.com",
   "bugs": {
-    "url": "https://github.com/Stiudeo/Thorin-store-elastic/issues"
+    "url": "https://github.com/Thorinjs/Thorin-store-elastic/issues"
   }
 }
