@@ -1,7 +1,7 @@
 {
   "name": "thorin-store-elastic",
   "author": "Stiudeo",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "dependencies": {
     "camelcase": "3.0.0",
     "decamelize": "1.2.0",
